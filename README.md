@@ -11,7 +11,7 @@
 	<a href="https://raw.githubusercontent.com/schulze-paul/MA-Thesis/master/3812049557.pdf">Thesis</a> • <a href="https://raw.githubusercontent.com/schulze-paul/MA-Thesis/master/Paul_schulze_master_final_presentation.pdf">Presentation</a>
 
 <div align="center">
-    <img height=600 src="https://github.com/schulze-paul/MA-Thesis/blob/main/cylinder-random.png?raw=true">
+    <img height=400 src="https://github.com/schulze-paul/MA-Thesis/blob/main/cylinder-random.png?raw=true">
 </div>
 
 <h1 align=center >Abstract</h1>
